@@ -1,6 +1,6 @@
 # kazuma1989
 
-A personal card for @kazuma1989.
+A personal card for Kazuma Ebina (@kazuma1989).
 
 ## Usage
 

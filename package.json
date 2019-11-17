@@ -4,6 +4,7 @@
   "description": "A personal card for @kazuma1989.",
   "bin": "cli",
   "scripts": {
+    "build": "node build",
     "test": "./cli"
   },
   "repository": {
@@ -13,7 +14,7 @@
   "keywords": [
     "card"
   ],
-  "author": "kazuma1989 <funifuni.1204@gmail.com>",
+  "author": "kazuma1989 <kazuma.ebina@quipper.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kazuma1989/kazuma1989/issues"
