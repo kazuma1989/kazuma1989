@@ -1,8 +1,8 @@
 {
   "name": "kazuma1989",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "0.0.0",
+  "description": "A personal card for @kazuma1989.",
+  "bin": "cli",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,9 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/kazuma1989/kazuma1989.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "card"
+  ],
+  "author": "kazuma1989 <funifuni.1204@gmail.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/kazuma1989/kazuma1989/issues"
   },
