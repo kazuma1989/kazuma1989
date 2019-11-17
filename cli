@@ -1,0 +1,6 @@
+#!/usr/bin/env node
+const fs = require("fs");
+const path = require("path");
+
+const card = fs.readFileSync(path.resolve(__dirname, "./dist/card"), "utf8");
+console.log(card);

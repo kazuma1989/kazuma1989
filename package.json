@@ -4,7 +4,7 @@
   "description": "A personal card for @kazuma1989.",
   "bin": "cli",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./cli"
   },
   "repository": {
     "type": "git",
