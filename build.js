@@ -20,7 +20,7 @@ ${chalk.white.bold("    Card:")}  ${chalk.red("npx")} ${chalk.white("kazuma1989"
 
 fs.writeFileSync(
   card,
-  chalk.green(
+  chalk.blue(
     boxen(content, {
       padding: 1,
       margin: 1,
