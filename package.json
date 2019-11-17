@@ -1,7 +1,7 @@
 {
   "name": "kazuma1989",
   "version": "0.0.0",
-  "description": "A personal card for @kazuma1989.",
+  "description": "A personal card for Kazuma Ebina (@kazuma1989).",
   "bin": "cli",
   "scripts": {
     "build": "node build",
