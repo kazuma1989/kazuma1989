@@ -2,5 +2,5 @@
 const fs = require("fs");
 const path = require("path");
 
-const card = fs.readFileSync(path.resolve(__dirname, "./dist/card"), "utf8");
-console.log(card);
+const card = path.resolve(__dirname, "./dist/card");
+fs.createReadStream(card).pipe(process.stdout);
