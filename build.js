@@ -22,6 +22,7 @@ ${label("   Email:")}  ${chalk.cyan("kazuma.ebina@quipper.com")}
 ${label("    Card:")}  ${chalk.red("npx")} ${text("kazuma1989")}
 `.trim();
 
+fs.mkdirSync(path.dirname(card), { recursive: true });
 fs.writeFileSync(
   card,
   chalk.blue(
