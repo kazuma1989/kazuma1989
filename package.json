@@ -1,6 +1,6 @@
 {
   "name": "kazuma1989",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A personal card for Kazuma Ebina (@kazuma1989).",
   "bin": "cli",
   "scripts": {
